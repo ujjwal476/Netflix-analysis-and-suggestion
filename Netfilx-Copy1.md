@@ -44,7 +44,7 @@ var x = new MutationObserver(function (mutations, observer) {{
 var notebookContainer = gd.closest('#notebook-container');
 if (notebookContainer) {{
     x.observe(notebookContainer, {childList: true});
-}}
+}};
 
 // Listen for the clearing of the current output cell
 var outputEl = gd.closest('.output');
