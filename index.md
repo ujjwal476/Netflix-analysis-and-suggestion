@@ -25,10 +25,10 @@ import nltk
 For full version of my code. Click here(put the link)
 
 As introduced earlier I would like to see the contents of Netflix. 
-1. General Analysis (Quality of contents, analysis by country, genre analysis, rating type)
-2. Duration and rating analysis
-3. Popular words and sentiment analysis
-4. Recommendation, prediction and classification
+### 1. [General Analysis (Quality of contents, analysis by country, genre analysis, rating type)]()
+### 2. [Duration and rating analysis]()
+### 3. [Popular words and sentiment analysis]()
+### 4. [Recommendation, prediction and classification]()
 
 
 You can use the [editor on GitHub](https://github.com/ujjoli/third-individual-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
