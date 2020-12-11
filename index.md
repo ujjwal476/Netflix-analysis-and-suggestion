@@ -27,7 +27,7 @@ For full version of my code. Click here(put the link)
 As introduced earlier I would like to see the contents of Netflix. 
 ### 1. [General Analysis (Quality of contents, analysis by country, genre analysis, rating type](file:///Users/ujjwaloli/Documents/Data%20Science/Data%20Mining/Project%203%20/try1.html)
 ### 2. [Duration and rating analysis](https://github.com/ujjoli/third-individual-project/blob/gh-pages/Duration%20and%20rating%20analysis.md)
-### 3. [Popular words and sentiment analysis](https://github.com/ujjoli/third-individual-project/blob/gh-pages/README.md)
+### 3. [Popular words and sentiment analysis](https://github.com/ujjoli/third-individual-project/blob/gh-pages/Popular%20words%20and%20sentiment.md)
 ### 4. [Recommendation, prediction and classification]()
 
 
