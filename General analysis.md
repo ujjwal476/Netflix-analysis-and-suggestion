@@ -46,7 +46,7 @@ NC-17, High TV-MA- No Children 17 and Under Admitted
 
 ### How does it matter?
 
-![Plot]()
+![Plot](1.d..png)
 
 By looking at the netflix content we can see that the most popular or the more no of rating type content is TV-MA and then comes TV-14. Netflix has more count of TV-MA, TV-14 , TV-PG and these top three ratung types are mostly adult type movies. However, the netflix seem to not care about the genreal audiences type of contents where there are no any restrictions which includes G, TV-Y, TV-G. Thus to increase its viewers, netflix have to increase its variability in contents. And with people staying home, if as family they would like to watch movies which comes under G, TV-Y category, they donot seem to have abundant option so this might be right time to emphasize on this rating types.
 
