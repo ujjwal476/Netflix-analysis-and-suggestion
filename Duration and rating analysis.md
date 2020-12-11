@@ -4,6 +4,7 @@
 
 After general analysis of content of netflix, it is considerable to think if duration of the movie are some how affecting the rating.
 
+
 Thus, I plotted the distribution of duration of movie.
 ```
 #plotting the histogram of distribution of movies with both high-standard and low-standard to analyze their distribution pattern
@@ -12,23 +13,18 @@ fig = px.histogram(movie_analysis_edited, x="duration_in_min", color="rating_sta
                    
 fig.show()
 ```
+![Image](2.a..png)
+
 This distibution plots both high-rated and low-rated movie. On general, both type of movie have similar kind of pattern. Most of the movie in netflix are ranged from 60 mins to 100 mins. Thus, it is normal to see many movies with duration from 1 hrs to 1 hr and 40 mins. 
 
 Though it is normal to see many movies between these durations, I would like to emphasize on high-rated movies.
 
+![Image](2.b..png)
+
 High-rated movies do have the similar pattern ranging bewteen 1 hrs to 1 hr and 40 mins. Thus, I would say both the hig-rated and low-ratd movie have similar duration.
 
 Now, after this analysis I was interested to see if there is any relation between duration and rating. Generally, duration of the content seems to have some kind of relation.  If the duration of movie is long, there might be chance that the movie/show rating will decrease.
-
-However, the plot does not show they have a strong co-relation. 
 ```
-#finding co-relation to see if the duration variable and rating variable are co-related
-from scipy.stats import pearsonr 
-  
-# Convert dataframe into series 
-list1 = movie_analysis_edited['duration_in_min'] 
-list2 = movie_analysis_edited['rating_num'] 
-  
 # Apply the pearsonr() 
 corr, _ = pearsonr(list1, list2) 
 print('Pearsons correlation: %.3f' % corr)
@@ -36,3 +32,13 @@ print('Pearsons correlation: %.3f' % corr)
 correlation = list1.corr(list2)
 correlation
 ```
+Let's see the co-relaion
+
+![Image](2. corelation.png)
+
+
+![Image](2.b..png)
+
+However, the plot does not show they have a strong co-relation.
+
+For futher analysis, which includes popular words natural language processing, click [here](Popular words and sentiment.md)
