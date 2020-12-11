@@ -34,23 +34,23 @@ As introduced earlier I would like to see the contents of Netflix.
 
 #### 2. [Duration and rating analysis](Duration and rating analysis.md)
       
-     a. Distribution of duration in mins
-     b. Co-relation between 
+      Distribution of duration in mins
+      Co-relation between rating and duration
 
 #### 3. [Popular words and sentiment analysis](Popular words and sentiment.md)
 
-    a. Popular directors
-    b. Popular words by horror genre
-    c. Popular words by action and adventure
-    d. Popular words by comedy
-    e. Popular words by romance
-    f. Sentiment analysis of description
+    Popular directors
+    Popular words by horror genre
+    Popular words by action and adventure
+    Popular words by comedy
+    Popular words by romance
+    Sentiment analysis of description
     
 #### 4. [Recommendation, prediction and classification](Recommendations.md)
 
-    a. Recommendation by cast,directors, title
-    b. Prediction of rating
-    c. Suggestion according to classification of rating and directors
+     Recommendation by cast,directors, title
+     Prediction of rating
+     Suggestion according to classification of rating and directors
 
 
 You can use the [editor on GitHub](https://github.com/ujjoli/third-individual-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
