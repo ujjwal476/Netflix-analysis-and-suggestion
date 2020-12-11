@@ -32,7 +32,7 @@ print('Pearsons correlation: %.3f' % corr)
 correlation = list1.corr(list2)
 correlation
 ```
-Let's see the co-relaion
+Let's see the co-relation
 
 ![Image](2. corelation.png)
 
