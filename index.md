@@ -27,10 +27,10 @@ For full version of my code. Click here(put the link)
 As introduced earlier I would like to see the contents of Netflix. 
 #### 1. [General Analysis](General analysis.md)
 
-    Quality of contents
-    Analysis by country
-    Genre analysis
-    Rating type
+      Quality of contents
+      Analysis by country
+      Genre analysis
+      Rating type
     
 
 #### 2. [Duration and rating analysis](Duration and rating analysis.md)
@@ -41,12 +41,12 @@ As introduced earlier I would like to see the contents of Netflix.
 
 #### 3. [Popular words and sentiment analysis](Popular words and sentiment.md)
 
-    Popular directors
-    Popular words by horror genre
-    Popular words by action and adventure
-    Popular words by comedy
-    Popular words by romance
-    Sentiment analysis of description
+     Popular directors
+     Popular words by horror genre
+     Popular words by action and adventure
+     Popular words by comedy
+     Popular words by romance
+     Sentiment analysis of description
     
     
 #### 4. [Recommendation, prediction and classification](Recommendations.md)
@@ -55,6 +55,7 @@ As introduced earlier I would like to see the contents of Netflix.
      Prediction of rating
      Suggestion according to classification of rating and directors
 
+You can click [here](Duration and rating analysis.md) for next page.
 
 You can use the [editor on GitHub](https://github.com/ujjoli/third-individual-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
