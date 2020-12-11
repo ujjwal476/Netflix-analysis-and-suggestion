@@ -20,7 +20,7 @@ Click [here](try2 copy.html) to view the visualization
 
 The above treemap shows the quality content of genre by country. If we see for the USA, the most popoular genres are Comedies, then comes Dramas, Documentaries, Kids and Teen and so on. This also shows comedies genre are more popular in US. So Netflix to increase the viewers can do couple of things. Either increase the genre contents that netflix have less in numbers like scifi and fantasy, romantic. OR focus on specific genre which have more low rated movies and try to improve the quality of them rather than genre which have abundant high-rated movies. For example there are more no of comedies genre but more of them are low -rated.So rather than emphasizing on drama genre,netflix in US has to focus on comedies, Kids and Teens. While its different in UK. Almost all genres in UK have high-rated movies. Howver, canda follows the US pattern. In canada too, quality of contents of Kids and Teen, Comedy and romantic genres have to be emphasized rather than dramas and documentaries.
 
-### We know that netflix has different rating type shows and movies. So perhaps based on rating types, we can provide some suggestions.
+#### We know that netflix has different rating type shows and movies. So perhaps based on rating types, we can provide some suggestions.
 
 ### 4. Analysis by rating type:
 
@@ -54,7 +54,7 @@ By looking at the netflix content we can see that the most popular or the more n
 
 Click [here](try3 copy.html) to view the visualization
 
-Same pattern is seen in this sunburst. Here n/a stands for rating not available. But if we again see by country TV-MA, TV-14 are the most popular one so it is right time for netflix to have other type of contents to increase its viewers.
+Same pattern is seen in this sunburst. Here 'n/a' stands for rating not available. But if we again see by country, TV-MA, TV-14 are the most popular one so it is right time for netflix to have other type of contents to increase its viewers.
 
 
 Click [here](Duration and rating analysis.md) further analysis
