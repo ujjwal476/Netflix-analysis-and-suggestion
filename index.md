@@ -28,7 +28,7 @@ As introduced earlier I would like to see the contents of Netflix.
 ### 1. [General Analysis (Quality of contents, analysis by country, genre analysis, rating type](General analysis.md)
 ### 2. [Duration and rating analysis](Duration and rating analysis.md)
 ### 3. [Popular words and sentiment analysis](Popular words and sentiment.md)
-### 4. [Recommendation, prediction and classification]()
+### 4. [Recommendation, prediction and classification](Recommendations.md)
 
 
 You can use the [editor on GitHub](https://github.com/ujjoli/third-individual-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
