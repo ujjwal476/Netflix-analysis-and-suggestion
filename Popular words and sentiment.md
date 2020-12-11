@@ -1,3 +1,4 @@
+theme: jekyll-theme-slate
 # third-individual-project
 ## Positive words and sentiment analysis
 
