@@ -91,6 +91,7 @@ I tested if each description of the movie either gives positive, neutral or nega
 This means that people like my aunt have option for watching the movie/show according to their choice. After further analysis, I found some common words like live, life, young, comic, adventure, special and family and so on for them that would result for positve sentiment contents.
 
 
+
 ![Image](3.f..png)
 
 
