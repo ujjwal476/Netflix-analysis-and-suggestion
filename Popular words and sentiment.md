@@ -24,10 +24,16 @@ Most common 4 director names with High rated movies are:
 
 
 
+Now lets anlayze the description by genres
+
+
 ### Popular words by genres
 
 
 Netflix also provide the synopsis also called as the description of the movie. From the description, we can see if there is the pattern on how the description is worded. We can see if there are any common words that comes under comedy genre, action and adventure genre, horror genre and romantic genre.
+
+
+
 
 
 
@@ -43,13 +49,16 @@ Interestingly there was pattern for horror movies description. So the common wor
 
 
 
+
+
+
 ### By Action and Adventure Genre
-
-
 
 ![Image](3.c..png)
 
 Similarly, there was a pattern for action and adventure movies on its description on how it was worded. Some of the common words for action, adventure movies were rescue, mission, battle, agent save and so on which also made sense.
+
+
 
 
 
