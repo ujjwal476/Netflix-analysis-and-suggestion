@@ -37,7 +37,7 @@ Let's see the co-relaion
 ![Image](2. corelation.png)
 
 
-![Image](2.c..png)
+![Image](2.d..png)
 
 However, the plot does not show they have a strong co-relation.
 
