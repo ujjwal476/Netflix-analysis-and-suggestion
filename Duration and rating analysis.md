@@ -1,6 +1,12 @@
+![](nflix.png)
+
 ## Duration and rating analysis
 
-### Generally, how long are the movies in Netflix? How long are good rated movies? How long should the good rated movie be?
+For full version of code, click [here]()
+
+
+#### Generally, how long are the movies in Netflix? How long are good rated movies? How long should the good rated movie be?
+
 
 After general analysis of content of netflix, it is considerable to think if duration of the movie are some how affecting the rating.
 
