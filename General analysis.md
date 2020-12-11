@@ -3,6 +3,8 @@
 
 ## General analysis (Quality of contents, analysis by country, genre analysis, rating type)
 
+For full version of code, click [here]()
+
 ### 1. Quality of contents:
   
    Click [here](try1.html) to view the visualization
