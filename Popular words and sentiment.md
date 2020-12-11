@@ -10,19 +10,19 @@ directors. As my goal is to find some pattern for high-rated movie, the followin
 
 Most common 4 director names with High rated movies are:
 
-**Shannon Hartman**
+**1.Shannon Hartman**
 
-**Jay Karas**
+**2.Jay Karas**
 
-**Lilly Wachowski, Lana Wachowski**
+**3.Lilly Wachowski, Lana Wachowski**
 
-**Mike Clattenburg**
+**4.Mike Clattenburg**
 
 ### Popular words by genres
 
 Netflix also provide the synopsis also called as the description of the movie. From the description, we can see if there is the pattern on how the description is worded. We can see if there are any common words that comes under comedy genre, action and adventure genre, horror genre and romantic genre.
 
-![Image](3.b..png
+![Image](3.b..png)
 
 Interestingly there was pattern for horror movies description. So the common words that represented the horror movies were supernatural, terrifying, flashbacks, attack which kind of made sense.
 
