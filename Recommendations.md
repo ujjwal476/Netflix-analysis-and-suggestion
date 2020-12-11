@@ -1,31 +1,68 @@
+![](nflix.png)
+
 ## Recommendation, prediction and classification
 
+
+For full version of code, click [here]()
+
 ### First---the Recommendation
+
 One of the goal of this project was to come up with the recommendation system for Netflix for user so that they could get the choices to watch the movie/show. 
 Therefore, I came up with recommendation system where the user will be provided with some menu and options and based on them, they will get the recommendations.
-The users will get recommendations based on  title, type, cast, director and genre. For this purpose, I used cosine-similarity and countvectorizer.
+The users will get recommendations based on  **title, type, cast, director and genre**. For this purpose, I used cosine-similarity and countvectorizer.
 
-The demo is shown below:
+**The demo is shown below:**
+
+
 ![](4.a.1.png)
+
+
+**Once I enter the option:**
+
 
 ![](4.a.2..png)
 
+
+**After I enter title name, it gives me other suggestions**
+
+
 ![](4.a.3.png)
+
+
+**Once again option menu!!!!**
+
+
 
 ![](4.a.4.png)
 
+
+**This time I give option G and choose the genre, then I choose the title. And it gets me recommended title.**
+
+
+
 ![](4.a.5.png)
 
+
+**One more option and we choose to quit!!! **
+
+
+
 ![](4.a.6.png)
+
 
 ### Second-- the Prediction:
 
 Now we want to preidict the rating on based on cast, director, and rating category (TV-MA, TV-14) of the movie/show. This technique is also called the 
-supervised machine learning because we actually know what we want to predict. I used cosine-distance and cosine-similarity for this too.
+**supervised machine learning** because we actually know what we want to predict. I used cosine-distance and cosine-similarity for this too.
 
-The demo is shown below:
+**The demo is shown below:**
+
+
 
 ![](4.b..png)
+
+
+
 
 ### Then finally,---classifications for rating by director using KNN
 
@@ -36,9 +73,14 @@ Again, it would ask the user to input the directors name. And based on the direc
 
 This can help the come up with the pattern for high-rated contents.
 
-The demo is shown below:
+**The demo is shown below:**
+
+
 
 ![](4.c..png)
+
+
+**And**
 
 ![](4.c.2.png)
 
