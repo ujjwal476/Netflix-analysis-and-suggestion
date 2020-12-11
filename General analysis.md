@@ -25,18 +25,28 @@ The above treemap shows the quality content of genre by country. If we see for t
 ### 4. Analysis by rating type:
 
 
--Little Kids: G, TV-Y, TV-G
+Little Kids: G, TV-Y, TV-G
+
 Older Kids: PG, TV-Y7, TV-Y7-FV, TV-PG
+
 Teens: PG-13, TV-14
+
 Adults:  R, TV-MA, NC-17
 
+
 G,TV-Y, TV-G -----stands for general audience,
+
 PG,TV-Y7 and Low TV-PG----- Parental Guidance Suggested
+
 PG-13,High TV-PG and Low TV-14------Parents Strongly Cautioned
+
 R, High TV-14, M, Low TV-MA-------- Restricted Under 17 requires accompanying parent or adult guardian
+
 NC-17, High TV-MA- No Children 17 and Under Admitted 
 
 ### How does it matter?
+
+![Plot]()
 
 By looking at the netflix content we can see that the most popular or the more no of rating type content is TV-MA and then comes TV-14. Netflix has more count of TV-MA, TV-14 , TV-PG and these top three ratung types are mostly adult type movies. However, the netflix seem to not care about the genreal audiences type of contents where there are no any restrictions which includes G, TV-Y, TV-G. Thus to increase its viewers, netflix have to increase its variability in contents. And with people staying home, if as family they would like to watch movies which comes under G, TV-Y category, they donot seem to have abundant option so this might be right time to emphasize on this rating types.
 
@@ -47,4 +57,4 @@ Click [here](try3 copy.html) to view the visualization
 Same pattern is seen in this sunburst. Here n/a stands for rating not available. But if we again see by country TV-MA, TV-14 are the most popular one so it is right time for netflix to have other type of contents to increase its viewers.
 
 
-
+Click [here](Duration and rating analysis.md) further analysis
