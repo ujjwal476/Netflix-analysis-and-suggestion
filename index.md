@@ -27,15 +27,17 @@ For full version of my code. Click here(put the link)
 As introduced earlier I would like to see the contents of Netflix. 
 #### 1. [General Analysis](General analysis.md)
 
-    a. Quality of contents
-    b. Analysis by country
-    c. Genre analysis
-    d. Rating type
+    Quality of contents
+    Analysis by country
+    Genre analysis
+    Rating type
+    
 
 #### 2. [Duration and rating analysis](Duration and rating analysis.md)
       
       Distribution of duration in mins
       Co-relation between rating and duration
+
 
 #### 3. [Popular words and sentiment analysis](Popular words and sentiment.md)
 
@@ -45,6 +47,7 @@ As introduced earlier I would like to see the contents of Netflix.
     Popular words by comedy
     Popular words by romance
     Sentiment analysis of description
+    
     
 #### 4. [Recommendation, prediction and classification](Recommendations.md)
 
