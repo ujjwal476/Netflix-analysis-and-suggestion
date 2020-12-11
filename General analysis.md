@@ -79,8 +79,6 @@ By looking at the netflix content we can see that the most popular or the more n
 
 
 
-
-
 ### 5. Analysis by rating type by country
 
 Click [here](try3 copy.html) to view the visualization
