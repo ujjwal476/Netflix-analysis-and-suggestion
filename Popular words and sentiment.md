@@ -1,5 +1,8 @@
+![](nflix.png)
+
 
 # Popular words and sentiment analysis
+
 
 After analysis of duration to rating of the movie, as we also have other piece of data that includes information of direcotrs, titles, castings and so on.
 
@@ -22,23 +25,36 @@ Most common 4 director names with High rated movies are:
 
 Netflix also provide the synopsis also called as the description of the movie. From the description, we can see if there is the pattern on how the description is worded. We can see if there are any common words that comes under comedy genre, action and adventure genre, horror genre and romantic genre.
 
+#### By Horror Genre
+
 ![Image](3.b..png)
 
+
 Interestingly there was pattern for horror movies description. So the common words that represented the horror movies were supernatural, terrifying, flashbacks, attack which kind of made sense.
+
+#### By Action and Adventure Genre
 
 ![Image](3.c..png)
 
 Similarly, there was a pattern for action and adventure movies on its description on how it was worded. Some of the common words for action, adventure movies were rescue, mission, battle, agent save and so on which also made sense.
 
+
+#### By Comedy Genre
+
 ![Image](3.d..png)
 
 In same way, there was pattern for comedy movies, too. Some common words included in the description of the contents were comedian, special, comedy, family comic and so on.
+
+
+#### By Romantic Genre
 
 ![Image](3.e..png)
 
 In same way, the common words for romantic movies were single, independent, daughter, mom and so on.
 
 Thus, it was kind of clear that there was a pattern on how Netflix worded the description based on the popular genres.
+
+
 
 ### Some exceptional audiences (Natural Language Processing)
 
