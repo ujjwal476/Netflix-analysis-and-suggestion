@@ -55,7 +55,7 @@ As introduced earlier I would like to see the contents of Netflix.
      Prediction of rating
      Suggestion according to classification of rating and directors
 
-You can click [here](Duration and rating analysis.md) for next page.
+You can click [here](General analysis.md) for next page.
 
 You are on [editor on GitHub](https://github.com/ujjoli/third-individual-project/edit/gh-pages/index.md).
 
