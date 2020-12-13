@@ -2,7 +2,7 @@
 
 ## Duration and rating analysis
 
-For full version of code, click [here]()
+For full version of code, click [here](Individual Project 03-Copy1.ipynb)
 
 
 #### Generally, how long are the movies in Netflix? How long are good rated movies? How long should the good rated movie be?
