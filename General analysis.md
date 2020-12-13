@@ -3,7 +3,7 @@
 
 ## General analysis (Quality of contents, analysis by country, genre analysis, rating type)
 
-For full version of code, click [here]()
+For full version of code, click [here](Individual Project 03-Copy1.ipynb)
 
 ### 1. Quality of contents:
   
