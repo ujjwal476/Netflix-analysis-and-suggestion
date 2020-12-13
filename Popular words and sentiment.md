@@ -27,7 +27,7 @@ Most common 4 director names with High rated movies are:
 Now lets anlayze the description by genres
 
 
-### Popular words by genres
+## Popular words by genres
 
 
 Netflix also provide the synopsis also called as the description of the movie. From the description, we can see if there is the pattern on how the description is worded. We can see if there are any common words that comes under comedy genre, action and adventure genre, horror genre and romantic genre.
@@ -89,7 +89,7 @@ Thus, it was kind of clear that there was a pattern on how Netflix worded the de
 
 
 
-### Some exceptional audiences (Natural Language Processing)
+## Some exceptional audiences (Natural Language Processing)
 
 After finding this pattern, it came to my mind that there are some audiences who are only tempted to see the movie which have positive sentiments. Like my aunt, she only watches the movie which gives her positive influence. She reads the description of movie and if the movie description has word like violence (negative vibes), she will ignore that. So lets see if we can find some pattern for these sentiments in the description of netflix contents. To do this I analyzed the sentiment of the description of each netflix content.
 
