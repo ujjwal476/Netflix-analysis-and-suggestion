@@ -3,7 +3,7 @@
 ## Recommendation, prediction and classification
 
 
-For full version of code, click [here]()
+For full version of code, click [here](Individual Project 03-Copy1.ipynb)
 
 ### First---the Recommendation
 
