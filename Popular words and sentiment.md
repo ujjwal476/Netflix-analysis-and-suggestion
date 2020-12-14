@@ -64,30 +64,6 @@ Similarly, there was a pattern for action and adventure movies on its descriptio
 
 
 
-### By Comedy Genre
-
-![Image](3.d..png)
-
-
-In same way, there was pattern for comedy movies, too. Some common words included in the description of the contents were comedian, special, comedy, family comic and so on.
-
-
-
-
-
-### By Romantic Genre
-
-
-![Image](3.e..png)
-
-In same way, the common words for romantic movies were single, independent, daughter, mom and so on.
-
-Thus, it was kind of clear that there was a pattern on how Netflix worded the description based on the popular genres.
-
-
-
-
-
 
 ## Some exceptional audiences (Natural Language Processing)
 
