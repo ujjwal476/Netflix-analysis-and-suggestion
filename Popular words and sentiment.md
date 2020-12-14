@@ -69,9 +69,9 @@ Similarly, there was a pattern for action and adventure movies on its descriptio
 
 After finding this pattern, it came to my mind that there are some audiences who are only tempted to see the movie which have positive sentiments. Like my aunt, she only watches the movie which gives her positive influence. She reads the description of movie and if the movie description has word like violence (negative vibes), she will ignore that. So lets see if we can find some pattern for these sentiments in the description of netflix contents. To do this I analyzed the sentiment of the description of each netflix content.
 
-I tested if each description of the movie either gives positive, neutral or negative sentiments. Based on the words chose to describe about the content, I would like to make suggestions for people like my aunt on what words does she have to look for while reading the description of the movie so that she could have movie with positive words. It was interesting to find that around 53% of the description of contents gave positive sentiments. 
+I tested if each description of the movie either gives positive, neutral or negative sentiments. Based on the words chose to describe about the content, I would like to make suggestions for people like my aunt on what words does she have to look for while reading the description of the movie so that she could have movie with positive words. It was interesting to find that around 50% of the description of contents gave positive sentiments. 
 
-![Image](sentiment percent.png)
+![Image](pie-sentiment.JPG)
 
 This means that people like my aunt have option for watching the movie/show according to their choice. After further analysis, I found some common words like live, life, young, comic, adventure, special and family and so on for them that would result for positve sentiment contents.
 
