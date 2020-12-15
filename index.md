@@ -22,7 +22,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 from textblob import TextBlob
 import nltk
 ```
-For full version of my code. Click [here](Individual Project 03-Copy1.ipynb)
+For full version of my code. Click [here](https://github.com/ujjoli/Netflix-analysis-and-suggestion/blob/gh-pages/Individual%20Project%2003-Copy1.ipynb)
 
 As introduced earlier I would like to see the contents of Netflix. 
 #### 1. [General Analysis](General analysis.md)
