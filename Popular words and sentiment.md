@@ -3,7 +3,7 @@
 
 # Popular words and sentiment analysis
 
-For full version of code, click [here](Individual Project 03-Copy1.ipynb)
+For full version of code, click [here](https://github.com/ujjoli/Netflix-analysis-and-suggestion/blob/gh-pages/Individual%20Project%2003-Copy1.ipynb)
 
 After analysis of duration to rating of the movie, as we also have other piece of data that includes information of direcotrs, titles, castings and so on.
 
