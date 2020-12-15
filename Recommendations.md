@@ -3,7 +3,7 @@
 ## Recommendation, prediction and classification
 
 
-For full version of code, click [here](Individual Project 03-Copy1.ipynb)
+For full version of code, click [here](https://github.com/ujjoli/Netflix-analysis-and-suggestion/blob/gh-pages/Individual%20Project%2003-Copy1.ipynb)
 
 ### First---the Recommendation
 
